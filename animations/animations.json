@@ -152,6 +152,29 @@
           ]
         }
       ]
+    },
+    {
+      "id": "anim_1777126917108904",
+      "name": "key",
+      "mediaFile": "media/key.png",
+      "startFrame": 0,
+      "endFrame": 0,
+      "fps": 12.0,
+      "loop": true,
+      "groupId": "__main__",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "anchorColor": "red",
+      "hitBoxes": [],
+      "frameRigs": [
+        {
+          "frame": 0,
+          "anchorX": 0.5,
+          "anchorY": 0.5,
+          "anchorColor": "red",
+          "hitBoxes": []
+        }
+      ]
     }
   ]
 }
