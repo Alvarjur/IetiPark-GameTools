@@ -43,6 +43,21 @@
           "flipY": false,
           "depth": 0.0,
           "groupId": "__main__"
+        },
+        {
+          "name": "door",
+          "gameplayData": "",
+          "type": "door",
+          "animationId": "anim_1777109640731538",
+          "x": 560,
+          "y": 336,
+          "width": 32,
+          "height": 32,
+          "imageFile": "media/door_open.png",
+          "flipX": false,
+          "flipY": false,
+          "depth": 0.0,
+          "groupId": "__main__"
         }
       ],
       "spriteGroups": [
@@ -98,6 +113,24 @@
       "mediaType": "atlas",
       "tileWidth": 32,
       "tileHeight": 32,
+      "selectionColorHex": "#FFCC00",
+      "groupId": "__main__"
+    },
+    {
+      "name": "door_open",
+      "fileName": "media/door_open.png",
+      "mediaType": "spritesheet",
+      "tileWidth": 32,
+      "tileHeight": 32,
+      "selectionColorHex": "#FFCC00",
+      "groupId": "__main__"
+    },
+    {
+      "name": "sky",
+      "fileName": "media/sky_1.png",
+      "mediaType": "tileset",
+      "tileWidth": 960,
+      "tileHeight": 540,
       "selectionColorHex": "#FFCC00",
       "groupId": "__main__"
     }
