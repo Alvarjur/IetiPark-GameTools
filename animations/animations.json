@@ -19,14 +19,34 @@
       "anchorX": 0.5,
       "anchorY": 0.5,
       "anchorColor": "red",
-      "hitBoxes": [],
+      "hitBoxes": [
+        {
+          "id": "__hb_1777110799928675_0",
+          "name": "Hit Box 1",
+          "color": "green",
+          "x": 0.03125,
+          "y": 0.03125,
+          "width": 0.9375,
+          "height": 0.90625
+        }
+      ],
       "frameRigs": [
         {
           "frame": 0,
           "anchorX": 0.5,
           "anchorY": 0.5,
           "anchorColor": "red",
-          "hitBoxes": []
+          "hitBoxes": [
+            {
+              "id": "__hb_1777110799928675_0",
+              "name": "Hit Box 1",
+              "color": "green",
+              "x": 0.03125,
+              "y": 0.03125,
+              "width": 0.9375,
+              "height": 0.90625
+            }
+          ]
         }
       ]
     },
@@ -42,21 +62,51 @@
       "anchorX": 0.5,
       "anchorY": 0.5,
       "anchorColor": "red",
-      "hitBoxes": [],
+      "hitBoxes": [
+        {
+          "id": "__hb_1777110805883358_0",
+          "name": "Hit Box 1",
+          "color": "green",
+          "x": 0.03125,
+          "y": 0.03125,
+          "width": 0.9375,
+          "height": 0.90625
+        }
+      ],
       "frameRigs": [
         {
           "frame": 0,
           "anchorX": 0.5,
           "anchorY": 0.5,
           "anchorColor": "red",
-          "hitBoxes": []
+          "hitBoxes": [
+            {
+              "id": "__hb_1777110805883358_0",
+              "name": "Hit Box 1",
+              "color": "green",
+              "x": 0.03125,
+              "y": 0.03125,
+              "width": 0.9375,
+              "height": 0.90625
+            }
+          ]
         },
         {
           "frame": 1,
           "anchorX": 0.5,
           "anchorY": 0.5,
           "anchorColor": "red",
-          "hitBoxes": []
+          "hitBoxes": [
+            {
+              "id": "__hb_1777110805883358_0",
+              "name": "Hit Box 1",
+              "color": "green",
+              "x": 0.03125,
+              "y": 0.03125,
+              "width": 0.9375,
+              "height": 0.90625
+            }
+          ]
         }
       ]
     },
