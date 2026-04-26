@@ -99,7 +99,21 @@
       "name": "second_level",
       "description": "",
       "gameplayData": "",
-      "layers": [],
+      "layers": [
+        {
+          "name": "main",
+          "gameplayData": "",
+          "x": 0,
+          "y": 0,
+          "depth": 0.0,
+          "tilesSheetFile": "media/atlas.png",
+          "tilesWidth": 32,
+          "tilesHeight": 32,
+          "visible": true,
+          "groupId": "__main__",
+          "tileMapFile": "tilemaps/level_001_layer_000.json"
+        }
+      ],
       "layerGroups": [
         {
           "id": "__main__",
@@ -107,7 +121,53 @@
           "collapsed": false
         }
       ],
-      "sprites": [],
+      "sprites": [
+        {
+          "name": "quixote",
+          "gameplayData": "",
+          "type": "quixote",
+          "animationId": "anim_1776702618726446",
+          "x": 0,
+          "y": 0,
+          "width": 32,
+          "height": 32,
+          "imageFile": "media/quixote_1.png",
+          "flipX": false,
+          "flipY": false,
+          "depth": 0.0,
+          "groupId": "__main__"
+        },
+        {
+          "name": "door",
+          "gameplayData": "",
+          "type": "door",
+          "animationId": "anim_1777109640731538",
+          "x": 848,
+          "y": 336,
+          "width": 32,
+          "height": 32,
+          "imageFile": "media/door_open.png",
+          "flipX": false,
+          "flipY": false,
+          "depth": 0.0,
+          "groupId": "__main__"
+        },
+        {
+          "name": "key",
+          "gameplayData": "",
+          "type": "key",
+          "animationId": "anim_1777126917108904",
+          "x": 976,
+          "y": 344,
+          "width": 32,
+          "height": 16,
+          "imageFile": "media/key.png",
+          "flipX": false,
+          "flipY": false,
+          "depth": 0.0,
+          "groupId": "__main__"
+        }
+      ],
       "spriteGroups": [
         {
           "id": "__main__",
@@ -123,7 +183,7 @@
       "viewportAdaptation": "letterbox",
       "viewportInitialColor": "green",
       "viewportPreviewColor": "blue",
-      "backgroundColorHex": "#DCDCE1",
+      "backgroundColorHex": "#C4D2E3",
       "depthSensitivity": 0.08,
       "zonesFile": "zones/level_001_zones.json",
       "pathsFile": "paths/level_001_paths.json"
