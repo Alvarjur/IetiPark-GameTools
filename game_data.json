@@ -127,6 +127,19 @@
           "visible": true,
           "groupId": "__main__",
           "tileMapFile": "tilemaps/level_001_layer_000.json"
+        },
+        {
+          "name": "platform_extended_layer",
+          "gameplayData": "",
+          "x": 0,
+          "y": 0,
+          "depth": 0.0,
+          "tilesSheetFile": "media/atlas.png",
+          "tilesWidth": 32,
+          "tilesHeight": 32,
+          "visible": true,
+          "groupId": "__main__",
+          "tileMapFile": "tilemaps/level_001_layer_001.json"
         }
       ],
       "layerGroups": [
