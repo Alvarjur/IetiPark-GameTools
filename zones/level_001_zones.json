@@ -52,6 +52,17 @@
       "groupId": "__main__"
     },
     {
+      "name": "invisible_wall3",
+      "type": "Default",
+      "gameplayData": "",
+      "x": 960,
+      "y": 192,
+      "width": 32,
+      "height": 160,
+      "color": "blue",
+      "groupId": "__main__"
+    },
+    {
       "name": "dead_zone",
       "type": "Default",
       "gameplayData": "",
