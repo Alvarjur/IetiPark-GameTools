@@ -77,9 +77,9 @@
       "name": "ground",
       "type": "Default",
       "gameplayData": "",
-      "x": 448,
+      "x": 480,
       "y": 352,
-      "width": 224,
+      "width": 192,
       "height": 32,
       "color": "blue",
       "groupId": "__main__"
@@ -101,7 +101,7 @@
       "gameplayData": "",
       "x": 385,
       "y": 352,
-      "width": 62,
+      "width": 94,
       "height": 32,
       "color": "blue",
       "groupId": "__main__"
